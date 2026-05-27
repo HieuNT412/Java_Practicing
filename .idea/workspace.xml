@@ -2,11 +2,13 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="14a850bd-e537-4f82-98c5-385814759704" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/Stream API/CountHeavyPackagesReport.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Stream API/models/Hub.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Stream API/models/LogisticsNetwork.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Stream API/models/Package.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/File/CalculateTotalSales.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/File/ExtractErrorLogs.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/File/InitializeStorage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/File/WriteLogMessage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/File/logs/sales.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java SE 8+.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Java SE 8+.iml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -16,6 +18,7 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="Python Script" />
         <option value="Class" />
       </list>
     </option>
@@ -35,11 +38,16 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "Application.AverageCarPriceByBrand.executor": "Run",
+    "Application.CalculateTotalSales.executor": "Run",
+    "Application.CountHeavyPackagesReport.executor": "Run",
     "Application.CountPremiumProductsReport.executor": "Run",
     "Application.CountThickBooksReport.executor": "Run",
+    "Application.ExtractErrorLogs.executor": "Run",
     "Application.GetHighSalaryEmployeeNames.executor": "Run",
     "Application.HighestPaidByDepartment.executor": "Run",
+    "Application.InitializeStorage.executor": "Run",
     "Application.SummarizeTasks.executor": "Run",
+    "Application.WriteLogMessage.executor": "Run",
     "ModuleVcsDetector.initialDetectionPerformed": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
@@ -51,6 +59,11 @@
     "kotlin-language-version-configured": "true"
   }
 }]]></component>
+  <component name="RecentsManager">
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="" />
+    </key>
+  </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
       <changelist id="14a850bd-e537-4f82-98c5-385814759704" name="Changes" comment="" />
@@ -63,5 +76,16 @@
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/File/InitializeStorage.java</url>
+          <line>9</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>

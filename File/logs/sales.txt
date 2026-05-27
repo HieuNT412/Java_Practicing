@@ -1,0 +1,5 @@
+Laptop,1,1200
+Mouse,2,25
+Laptop,1,1200
+Keyboard,1,80
+Mouse,1,25
