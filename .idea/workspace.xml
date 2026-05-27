@@ -2,17 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="14a850bd-e537-4f82-98c5-385814759704" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/Stream API/CountPremiumProductsReport.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Stream API/CountThickBooksReport.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Stream API/GetHighSalaryEmployeeNames.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Stream API/models/Book.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Stream API/models/Classroom.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Stream API/models/Company.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Stream API/models/School.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Stream API/models/Store.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Stream API/CountHeavyPackagesReport.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Stream API/models/Hub.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Stream API/models/LogisticsNetwork.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Stream API/models/Package.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Stream API/models/Department.java" beforeDir="false" afterPath="$PROJECT_DIR$/Stream API/models/Department.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Java SE 8+/models/Department.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Java SE 8+/models/Department.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
